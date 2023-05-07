@@ -1944,9 +1944,9 @@ body, #container-wrap { background:#ededed; }
 }
 
 #item5678 {
-	width:374px !important;
+	width:380px !important;
 	height:189px !important;
-	left:1px !important;
+	left:px !important;
 	top:1px !important;
 	background:#000;
 }
@@ -2194,6 +2194,7 @@ body, #container-wrap { background:#ededed; }
 		-webkit-transform:translate(0px,0px);
 		opacity:1;
 	}
+
 }
 #item5007 {
 	width:161px !important;
@@ -2233,6 +2234,15 @@ body, #container-wrap { background:#ededed; }
 	height:52px !important;
 	background:#000;
 }
+
+#item5674 {
+scale: 24%;	
+}
+
+#item5823 {
+	scale: 20%;	
+	}
+
 
 #item5750 {
 	width:79px !important;
