@@ -2236,11 +2236,15 @@ body, #container-wrap { background:#ededed; }
 }
 
 #item5674 {
-scale: 24%;	
+scale: 24%;
+left:-10px;
+top:-167px;	
 }
 
 #item5823 {
-	scale: 20%;	
+	scale: 20%;
+	left:-515px;
+	top: 140px;
 	}
 
 
